@@ -1,6 +1,6 @@
 PID,name,min,max
-P1,School library,10000,20000
-P2,Water filter,5000,8000
-P3,Tree planting,3000,6000
-P4,Clinic supplies,4000,10000
-P5,Unvoted project,1000,2000
+P1,Open-source Indic keyboard app,10000,20000
+P2,Open hardware water quality sensor,5000,8000
+P3,3D-printable prosthetic hand,3000,6000
+P4,FOSS clinic records system,4000,10000
+P5,Open-design solar food dryer,1000,2000

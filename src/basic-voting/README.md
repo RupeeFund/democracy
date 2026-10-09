@@ -57,9 +57,9 @@ Carried over fund: 750
 
 Funded projects:
 PID,name,cumulative-vote,allocated-fund
-P2,Water filter,130,8000
-P3,Tree planting,100,6000
-P1,School library,95,15250
+P2,Open hardware water quality sensor,130,8000
+P3,3D-printable prosthetic hand,100,6000
+P1,Open-source Indic keyboard app,95,15250
 ```
 
 ₹750 (the median of the carry-over votes 0, 500, 1000 and 2000) is set
