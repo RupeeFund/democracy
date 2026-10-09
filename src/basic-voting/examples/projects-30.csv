@@ -1,0 +1,31 @@
+PID,name,min,max
+P01,Open-source Indic OCR engine,45000,52000
+P02,Open hardware water quality sensor,6000,53000
+P03,Libre 3D-printable prosthetic hand,22000,37000
+P04,FOSS clinic records system,19000,27000
+P05,Open-design solar charge controller,52000,58000
+P06,3D-printable lab equipment library,48000,95000
+P07,Open-source farm weather station,39000,44000
+P08,Libre Kannada speech dataset,42000,69000
+P09,Open-source school timetable app,7000,8000
+P10,Open hardware air quality monitor,10000,23000
+P11,Libre screen reader voice for Tamil,19000,51000
+P12,Open-design bus stop wayfinding signs,43000,44000
+P13,Open-source rainwater harvesting designs,40000,52000
+P14,Open hardware low-cost microscope,50000,91000
+P15,FOSS offline learning server,49000,83000
+P16,Open-source waste collection route planner,31000,45000
+P17,3D-printable playground parts,33000,70000
+P18,Libre textbook translation toolkit,22000,22000
+P19,Open-design cargo bicycle frame,53000,63000
+P20,CC-BY-SA illustration library,49000,76000
+P21,Community mesh Wi-Fi firmware,26000,43000
+P22,Open-source animal shelter tracker,14000,27000
+P23,Open-design menstrual cup mould,53000,74000
+P24,FOSS flood alert SMS gateway,11000,16000
+P25,Open seed variety database,29000,35000
+P26,Libre Braille embosser,27000,49000
+P27,Open-source theatre lighting controller,43000,59000
+P28,Open first-aid training manual,56000,58000
+P29,Open-design composting unit,51000,80000
+P30,Libre point-of-sale app for vendors,39000,46000
