@@ -7,4 +7,4 @@ more will be covered here.
 Various aspects of The Rupee Fund are covered in:
 
 1. [Basics of the Voting Mechanism](doc/VOTING-BASICS.md). See [examples](src/basic-voting/README.md).
-
+2. [Proposed - Real Voting Mechanism](doc/REAL-VOTING.md)
