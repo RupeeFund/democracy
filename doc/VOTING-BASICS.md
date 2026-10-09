@@ -61,3 +61,11 @@ Loop over each bucket:
      fund all projects in bucket, to the range of their minimum requested + ((max-min) x factor)
      reduce Funused by the fund spent
      done with processing all buckets
+
+# Authors
+
+Shree Kumar
+
+# License
+
+CC-BY-SA-4.0
