@@ -1,6 +1,6 @@
 # Voting Mechanism
 
-Document Status: DRAFT. Comments are open
+Document Status: **DRAFT**. Comments are open
 
 This is the proposed voting mechanism for The Rupee Fund (TRF).
 
@@ -211,8 +211,8 @@ What data do we need to keep?
    could require logged video recordings. In today's world of sophisticated spoofing, all
    this may not necessarily guarantee anything.
 
-6. We can't give our contributors an absolute guarantee that we won't every get frauded
-   - but we will try our level best. That's one reason to keep more data around than what
+6. We can't give our contributors an absolute guarantee that we won't every get frauded,
+   but we will try our level best. That's one reason to keep more data around than what
    we absolutely need.  And a good verification trail. Our fund transfers will be based
    on UPI IDs or Bank Transfers, that can act as useful identification too - as financial
    institutions locally have strict KYC norms for compliance purposes.
