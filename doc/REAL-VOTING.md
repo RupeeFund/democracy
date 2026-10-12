@@ -69,24 +69,24 @@ Voters can also specify a part of the pool that will be carried over to the
 next season. The user interface will ensure that the total of all the funded
 projects and the carry-over funds don't exceed the pool size.
 
-## Communities
+## Themes
 
-In Season 1, everyone votes on all the projects.  We call this the "General Community"
+In Season 1, everyone votes on all the projects.  We call this the "General Theme"
 vote. At this point, the will of the community wouldn't be known, so voting is kept
 generic.
 
-"General Community" based voting would adequately represent our community initially.
+"General Theme" based voting would adequately represent our community initially.
 However, we are a pluralistic society.  As the number of contributors grows, and the
 funding grows, formal and ad-hoc communities may form, and become interested in creating
 their own causes/projects, campaign for them, etc.  Such groups will be termed
-"Special Communities".
+"Special Theme".
 
-Any project may be part of only one Community - the "General Community" or one of the
-"Special Communities". A project may move to a Special Community, only on invitation/
-permission of that community. A project may return to the General Community at any point
+Any project may be part of only one Theme - the "General Theme" or one of the
+"Special Themes". A project may move to a Special Themes, only on invitation/
+permission of that Theme. A project may return to the General Theme at any point
 without permission.
 
-Formation of a Community may need endorsements from multiple community members, or
+Formation of a Theme may need endorsements from multiple community members, or
 making a contribution relative to the popularity of the proposer (we don't want to
 be hijacked by money power!), or a mix of both. If a community fails to attract
 enough voters, it may get dissolved after a set number of seasons - say 4 seasons.
@@ -103,7 +103,7 @@ from every individual in the project to be listed under it.
 Each individual listed under a project must be listed with their complete legal
 name. Alias/Nickname is allowed as an add-on, not as the primary identity.
 
-A project requires the following:
+A project requires the following (and perhaps more):
 
 1. Title
 2. Description
@@ -258,23 +258,23 @@ voting method that is "online" not work.  But this "identity proving business" d
 an additional detriment - even privately done voting isn't safe, as the coercive boundary
 stretches outside the bounds of privacy.
 
-So - here's what we can do. Whether to remain anonymous is a user's choice, exercised during
-the vote.  By default the checkbox will be "ON".  But if the checkboox is turned "OFF",
-what should happen? The user will have the option of providing an "anonymizing key".
-The hash of the voter is computed using SHA256 for this string: secret-key+uppercase(PAN)+email
+Enter VVDAT - our Voter Verifiable Digital Audit Trail! Whether to remain verifiable is
+a user's choice, exercised during the vote.  By default the checkbox will be "ON". But
+if the checkboox is turned "OFF", what should happen?
 
-"secret-key" is stored in the system. However, it will not be known to others.
+Here's what happens... we send every voter a secret hash to their email.  This is their
+identity during the voting. We then use a two pass approach:
 
-For verification, we must still pass through the hash to the voting database. We can use a
-two pass approach for this:
+1. Pass 1: for all votes, store the secret hash. Also store a boolean if it's verifiable or not.
+2. Pass 2: deduplicate hashes. For non verifiable votes, replace the hash with a unique sequence
+   number. By assigning a sequence number, we can significantly reduce the size of the voting
+   database. For verifiable votes, use the hash.
 
-1. Pass 1: for all votes, compute SHA256 hash on full string. If it's a non-anonymous vote,
-   add prefix "nan-"
-2. Pass 2: deduplicate hashes, without touching the "nan-" votes. By assigning a sequence number,
-   we can significantly reduce the size of the voting database.
-
-These two steps merely illustrate the scheme. There are more efficient ways of implementing
+These two steps merely illustrate the scheme. There are perhaps better ways of implementing
 this :)
+
+With this scheme, anybody who downloads the database also gets info about how many people
+have opted for verifiability.
 
 ## Overall Vision
 
@@ -285,8 +285,31 @@ The Rupee Fund is "by the people and for the people".
  
 The underlying theme of the Fund is that we have all benefitted from the Free and Open world.
 We believe that only the goodness in everyone can build a world that is more Free and more Open,
-than it was in the past. And for this mission, we seek collective action. Not for ourselves,
+than it was in the past. And in this mission, we seek collective involvement. Not for ourselves,
 but for the Whole Wide World.
+
+Let's end with an excerpt from the translation of Rabindranath Tagore's _Gitanjali_:
+
+> Where the mind is without fear and the head held high;
+>
+> Where knowledge is free;
+>
+> Where the world has not been broken up into fragments by narrow domestic walls;
+>
+> Where words come out from the depth of truth;
+>
+> Where tireless striving stretches its arms towards perfection;
+>
+> Where the clear stream of reason has not lost its way into the dreary desert sand of dead habit;
+>
+> Where the mind is led forward by Thee into ever-widening thought and action;
+>
+> Into that heaven of freedom, my Father, let my country awake.
+>
+
+# Authors
+
+Shree Kumar
 
 # License
 
