@@ -69,6 +69,12 @@ Voters can also specify a part of the pool that will be carried over to the
 next season. The user interface will ensure that the total of all the funded
 projects and the carry-over funds don't exceed the pool size.
 
+As part of voting, we might need to track the amount of time the user spent on
+the voting page. We might need a checkbox that says "I have looked at or
+reviewed 20-30% projects" or something like that. Basically to discourage members
+voting just for a specific campaign. This data can also be part of the export
+database for community awareness - leading to better overall regulation.
+
 ## Themes
 
 In Season 1, everyone votes on all the projects.  We call this the "General Theme"

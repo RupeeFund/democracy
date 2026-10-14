@@ -1,5 +1,7 @@
 # Basics of Voting
 
+STATE: **DRAFT**
+
 The Rupee Fund pools funds from many contributors over a few months.
 Contributors nominate projects. The minimum attributes of a project
 are an ID, name, and a range of funding requested(minimum, maximum).
