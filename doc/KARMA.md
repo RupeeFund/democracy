@@ -62,8 +62,10 @@ TBD
 This may be visualized as free goodwill in the community. However, public memory is
 short - hence positive karma reports are useful too.
 
-Positive Karma reports may not be withdrawn. They happen in a specific environment, with a
-specific context. So giving positive karma needs careful consideration too !
+Just like negative karma, positive Karma may be withdrawn. They happen in a specific
+environment, with a specific context. And people may one day rue this and withdraw
+such favour bestowed. Keeping positive karma may need continuation of good behaviour,
+and cannot be taken for granted.
 
 # Awards
 
