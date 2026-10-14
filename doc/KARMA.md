@@ -14,7 +14,9 @@ the same(URL/link). The negative karma report includes a reporter selectable del
 which may not be unusually large - e.g. not more than a month or so. This exists to improve
 anonimity. Karma reporters may choose to be non-anonymous as well (should we allow this?),
 but they must be well aware of the complications this may cause. Reporters may opt for
-instant delivery also, with care.
+instant karma delivery. Instant Negative Karma (INK!) is a valuable feedback mechanism,
+if used with care, in the right way. The objective of INK must be moderating communication,
+using arguments based on reason/data, rather than "doh - you suck".
 
 After the delay factor, an anonymised bad karma report is sent to the person, with the
 proof. The person may refute this with contrary evidence, or accept this karma. A separate
@@ -40,6 +42,10 @@ consideration.
 
 ### The language of Karma
 
+Karma reports may not be very short. Complete karma context must be provided : what the circumstances
+were, what exactly happened and why it was "wrong"(your view), and your own justification for giving
+the karma.
+
 For Karma reports and resolutions to be simple, the humans in the loop must use simple laguage,
 short sentences, and avoid complex idioms. Usage of indian languages is encouraged, where-ever
 appropriate. Grossly incorrect usage of english may invite negative karma as well, so
@@ -48,14 +54,36 @@ haste.
 
 In general, we suggest usage of TRF spaces without switching into an activist mode.  We welcome
 reasoned arguments made with data.  Pure "opinion" does not add to the discourse in meaningful
-ways. As a pure outlet, we may consider a separate "opionion" channel, and a separate
+ways.
+
+As a pure outlet, we may consider a separate "opionion" channel, and a separate
 "reasoned arguments" channel. Observations in the "opinion" channel may be refuted in "reasoned
 arguments", and can be withdrawn.  Withdrawn opinions will still be listed somewhere. Opinions
 that don't age well may come back to haunt you years later, so don't jump to them!
 
-## Handling members with high negative karma
+## Handling HNIs
 
-TBD
+HNIs are members with High Negative Karma - handling them requires careful consideration.
+Total "Bans" are not solutions.
+
+A combination of various strategies may be considered:
+
+- Degrade privileges on platform gracefully. Fundamental right of contributing and
+  voting cannot be withdrawn in any circumstances. Nominating projects may not be
+  curtailed completely, but may be restricted.  These fundamental principles must
+  be set in stone in the constitution. Projects from HNIs may be labelled
+  specifically. Members adding HNIs into their projects might be
+  made aware of the possbile fallout of their choices with BOLD WARNING MESSAGES.
+- Time bound curtailment of privileges. E.g. somebody who got a surge of instant
+  negative karma may be unable to post for a while, and would be specifically be
+  informed of this.
+
+The exact limits are rules have to be discussed, and voted upon to be finalized. The
+limits must be reviewed yearly or once in two years.
+
+FIXME: "Extraordinary" circumstances might need emergency actions. Some some kind
+of "executive power" is needed. Season 4 is when we run elections. Perhaps there
+will be more clarity by then.
 
 # Positive Karma
 
@@ -66,6 +94,23 @@ Just like negative karma, positive Karma may be withdrawn. They happen in a spec
 environment, with a specific context. And people may one day rue this and withdraw
 such favour bestowed. Keeping positive karma may need continuation of good behaviour,
 and cannot be taken for granted.
+
+# Moderating Karma
+
+Moderating Karma might well be the real (and only!) thankless job in the TRF community.
+But this must not be!
+
+Hence, this will be a paid task eventually - compensated with money at some point in
+time. Exactly how much, what point in time, at what scale/volume, etc - and how does one
+get such a job, etc are things to think about, and decided later.
+
+Independent of whether paid/not, statistics must be collected (e.g. time spent on
+moderation), for later usage.
+
+Being the only "paid" task, this will be deducted from the funding pool every season,
+and specifically shown as such. This is a key element of the self correcting/balancing
+design. When members see this cost eating into the pool, then that would prompt the
+right kind of discussion/analysis.
 
 # Awards
 
@@ -91,6 +136,30 @@ of 24 and 60.
 
 Karma is flexibly given in the range of 1 to 120. Limit resets after 24
 hours.
+
+# Data Privacy Laws
+
+TBD Must be studied wrt how TRF operates. How do we balance individual needs
+w.r.t what the community might need to know ?
+
+# What happens Member quits platform
+
+If a Member actively "quits" the platform, then their status changes to
+"Opted out of Platform". A member specified message may be included as a
+reason for opting out (care advised - may beget karma!!)
+
+If a member is inactive (in activity terms) for a long time - e.g. no contributions,
+then reminders may be sent out. Member may be tagged dormant after a suitable
+timeout.
+
+# What happens Member rejoins platform
+
+The frozen karma comes back to them :) Life resumes !
+
+TBD karma may "age" in some ways too... Rather than showing "cumulative" karma, we
+may have to show average karma over time buckets? - both positive and negative.
+e.g. overall cumulative, last 5 years, last 1 year, last 1 month, last 1 day?
+Separate positive and negative. Something like a stock market graph is suitable?
 
 # User Interfaces
 
