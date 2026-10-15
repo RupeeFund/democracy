@@ -61,6 +61,19 @@ As a pure outlet, we may consider a separate "opionion" channel, and a separate
 arguments", and can be withdrawn.  Withdrawn opinions will still be listed somewhere. Opinions
 that don't age well may come back to haunt you years later, so don't jump to them!
 
+FIXME: I am undecided on the "opinion" aspect. There are other networks which run on opinions.
+LinkedIn, Twitter/X, etc. We probably shouldn't duplicate the functionality from there, and
+keep our forums and discussion spaces clean - only encourage "arguments" - not "opinion".
+Let folks who want to vent go out and vent! But if they come in and vent, let karma catch up!
+Perhaps that's a sweet spot in terms of time our community has to spend on this. Noise stays
+out. Good content stays in. Maybe everyone is happy as a result ?
+
+FIXME: Should we also have this idea of an "external reference" who might be
+accumulating karma inside our spaces :D Both positive and negative of course. How does this
+play with regulation, etc ? Perhaps not something we can allow. If somebody signs up then
+all their information is given by them. With external references, the whole pitch gets
+muddled.
+
 ## Handling HNIs
 
 HNIs are members with High Negative Karma - handling them requires careful consideration.
