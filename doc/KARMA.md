@@ -83,7 +83,7 @@ limits must be reviewed yearly or once in two years.
 
 FIXME: "Extraordinary" circumstances might need emergency actions. Some some kind
 of "executive power" is needed. Season 4 is when we run elections. Perhaps there
-will be more clarity by then.
+will be more clarity by then. This is "constitution" material.
 
 # Positive Karma
 
@@ -111,6 +111,14 @@ Being the only "paid" task, this will be deducted from the funding pool every se
 and specifically shown as such. This is a key element of the self correcting/balancing
 design. When members see this cost eating into the pool, then that would prompt the
 right kind of discussion/analysis.
+
+FIXME - there could be other paid tasks as well down the line. How do we decide
+renumeration ? Community voting might be a solution. But would communities be
+good enough to figure out what a reasonable remuneration is ? That needs to be
+seen.  We could complement this with a second phase of voting that includes
+members expressing interest in the voted renumeration number. Members might
+quote a renumeration, and what percentage of their time they would sign up for.
+Community votes again.
 
 # Awards
 
