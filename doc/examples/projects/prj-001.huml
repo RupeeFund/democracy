@@ -1,0 +1,30 @@
+project_id: "001"
+proposer: "uid0"
+title: "Ternary Microcontroller Chip"
+desc: """
+  I have built a ternary concept microcontroller.
+  The design has been tested and validated. I am
+  a student. Help me get the chip fabricated by
+  backing this project.
+"""
+funding_range:: 30000, 40000
+campaign_url: "https://github.com/username/my-chip"
+categories:: "immediate", "nascent"
+licenses:: "MIT"
+deliverables::
+  - ::
+    licenses:: "MIT"
+    desc: """
+      Concept Ternary microcontroller design, taped
+      out and tested with the SkyWater 130 nm process,
+      at 50 MHz.
+    """
+members::
+  - ::
+    uid: "uid0"
+    funding_range:: 30000, 40000
+    fund_usage: """
+      I will use the funds to buy a slot in a multi-chip-wafer
+      shuttle from tiny tapeout. I'll get 10 chips this way. Can test, and
+      even share some with the community.
+    """

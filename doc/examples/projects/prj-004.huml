@@ -1,0 +1,62 @@
+project_id: "004"
+proposer: "uid0"
+name: "To IndiaFOSS, With Love"
+desc: """
+  We are five engineering students from IIT Guwahati, Assam. We are active contributors
+  to various FOSS projects. We help organize local meetups, and help various people
+  adopt FOSS.
+
+  We also volunteer and run learning activities in a local(10+2) school, using Free and
+  Open Source technologies. That said, we are painfully aware of the lack of awareness
+  and opportunities available to these kids. One fine day, over our usual philosophical
+  discussions, we asked ourselves, \"What if these folks got an opportunity to experience
+  IndiaFOSS?\".
+
+  IndiaFOSS is a vibrant technical festival, a geek's dream. But more importantly, it's
+  a place where everyone is exposed to the entire spectrum of technologies - spanning
+  not just software, but also hardware at various levels.
+
+  It was 5 AM in the morning when we finished our philosophy detour. We were at the school
+  at 9 AM. By 10 AM the school teacher was excited. And then we got cracking.
+
+  Right now, we have a group of 24 students willing to travel all the way from Assam
+  to Bengaluru. School teachers on the ready. And us too - to show them their paces
+  in the conference and guide them at every step of the way.
+
+  Help fund this dream of ours, and see you at IndiaFOSS. We'll keep you informed
+  and entertained, and that's a promise! And the students and teachers will be back
+  with a bang, bursting with new ideas, and ... a lot could happen over the next year
+  with your support as the starting point.
+
+  PS: we are requesting funding for roughly 80% of the cost, courtesy support of some
+  good samaritans from Bengaluru. Your funding will cover the ticket cost(3AC) and
+  some of the travel logistics for the entire group, excluding us students.
+"""
+funding_range:: 120000
+campaign_url: "https://www.youtube.com/watch?v=project-campaign-video-id"
+categories:: "short-term", "nascent"
+licenses:: "CC-BY-SA-4.0"
+matching_grant::
+  - ::
+    uid: "mgid1"
+members::
+  - ::
+    # Student
+    uid: "uid4"
+    fund_usage: """
+      Student from Class 6. Will do the script writing for content.
+    """
+  - ::
+    # Student
+    uid: "uid5"
+    fund_usage: """
+      Student from Class 7. Will implement the logic script in the interactive
+      content
+    """
+  - ::
+    # Faculty
+    uid: "uid6"
+    fund_usage: """
+      Training, Travel, Stay, High Quality recordings as detailed in Phase I
+      document.
+    """

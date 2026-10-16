@@ -1,0 +1,58 @@
+project_id: "002"
+proposer: "fiscalhost0"
+title: "Semiconductor Fabrication for the learner in You"
+desc: """
+  We are students setting up a simple semiconductor fabrication facility, at XYZ
+  University. Initially, we aim to use proven designs based on work done by
+  HackerFab IIT Bombay, which in turn builds on work done by HackerFab MIT.
+
+  We plan to start by building the lowest cost lithographic machine,
+  which still cost us one lakh rupees. We have pooled some money ourselves, to
+  the tune of fourty thousand rupees. Please help us raise the remaining funds.
+
+  We have plans to make this facility available to a larger collaborator group
+  beyond our university. The funds you provide will likely create benefits over
+  a larger area, beyond just Chennai - which happens to be where we are located.
+"""
+funding_range:: 80000, 100000
+campaign_url: "https://www.youtube.com/watch?v=project-campaign-video-id"
+categories:: "short-term", "nascent"
+licenses:: "MIT"
+deliverables::
+  - ::
+    licenses:: "MIT"
+    desc: """
+      Complete documentation about our build, including designs friendly
+      enough for fabrication at local machining vendors in Coimbatore.
+      The build will be verified with students from nearby colleges, to
+      ensure that everything is reproducible.
+    """
+  - ::
+    licenses:: "CC-BY-SA-4.0"
+    desc: """
+      Fun and instructive videos in Tamil that serve to educate and
+      encourage others to learn more and get started with semiconductors.
+    """
+members::
+  - ::
+    uid: "uid1"
+    funding_range:: 80000, 100000
+    fund_usage: """
+      I will be buying all the required equipments.
+    """
+  - ::
+    # This user lends extra credibility to the project helps build trust and
+    # accountability. Also benefits from the visibility
+    uid: "uid2"
+    funding_range:: 0
+    fund_usage: """
+      Will be helping assemble, test and make the machine reusable.
+    """
+  - ::
+    uid: "uid3"
+    funding_range:: 0
+    fund_usage: """
+      Will be helping tune the software. Will also document the work, so that any
+      other university can reuse our work. Will also be leading the effort to make
+      the fun videos.
+    """

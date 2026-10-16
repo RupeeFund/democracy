@@ -1,0 +1,82 @@
+project_id: "003"
+proposer: "fiscalhost1"
+title: "For Schools, With Love: by the kids, for the kids"
+desc: """
+  Join us students from the State of Kerala, as we say thanks to the creators of
+  FunPlay - an incredible piece of software that we use everyday at school.
+
+  Many of us had a discussion with the maintainer of the project about enhancements
+  required for our school. It turned out we could ourselves do the required changes.
+  The maintainer has kindly consented to guide us students in this, with assistance
+  from some of our teachers. We are looking forward to the day when our school could
+  potentially be running the software that we wrote, in atleast some small way! Our
+  teachers tell us that there is no reason for other schools not to find this useful,
+  but we are telling ourselves - one step at a time.
+
+  The changes would require not only volunteer bandwidth, but also support logistics
+  - travel, stay and multimedia recordings in studios for best quality. We already
+  have a project plan drafted for this, accessible on our project page. This is a
+  multi-phase project. We are seeking funds for Phase I right now.
+
+  We are running this funding campaign to spread the awareness of the benefits of
+  Free and Open Source Software by giving back in many different ways.
+
+  Join us to say Thank you! Not limited to "Gods Own Country"... Gods from other
+  countries are welcome too :) Help us expand the reach of FOSS in schools beyond Kerala.
+
+  We have been looking for generous donors. Through an uncle, we were forunate enought to
+  reach out to Gadinadu Kannadigara Sangha, Kasaragod. They were surprised to know that
+  such a fund existed. They have also kindly agreed to match the grants raised by us through
+  our campaign on The Rupee Fund. Due to this, we need to raise much less than we would
+  have to otherwise.
+"""
+funding_range:: 75000, 125000
+campaign_url: "https://www.youtube.com/watch?v=project-campaign-video-id"
+categories:: "short-term", "nascent"
+licenses:: "MIT", "CC-BY-SA-4.0"
+deliverables::
+  - ::
+    licenses: "CC-BY-SA-4.0"
+    desc: """
+      Multimedia recording database. Sounds of local birds, vehicles, objects,
+      voice clips suitable for fun classroom exercises. Similarly, many many
+      hours of video edited by us.
+    ""
+  - ::
+    licenses: "GPL-V3.0"
+    desc: """
+      Our patches merged upstream into FunPlay. The functionality we help
+      co-create will become available for all schools to use and customize
+      as needed.
+    ""
+matching_grants::
+  - ::
+    uid: "mgid1"
+    matching_ratio:: 1,1
+    funding_range:: 75000, 125000
+members::
+  - ::
+    # Student
+    uid: "uid4"
+    role: """
+      Media editor/interaction design/documentation etc
+    """
+  - ::
+    # Student
+    uid: "uid5"
+    role: """
+      Lead campaigner. Came up with the idea that The Rupee Fund is the
+      appropriate platform for this campaign.
+    """
+  - ::
+    # Guide
+    uid: "uid6"
+    role: """
+      Serves as project guide. Facilitates interaction with the developer,
+      manages finances and interaction with authorities at the school and
+      higher levels.
+    """
+    fund_usage: """
+      Training, Travel, Stay, High Quality recordings as detailed in Phase I
+      document.
+    """

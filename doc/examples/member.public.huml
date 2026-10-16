@@ -1,0 +1,90 @@
+uid0::
+  name: "Phungshuk Wangdoo"
+  whoami: "Hacker and Enthusiast from Ladakh"
+  photo: "/media/photo/users/1.jpg"
+  socials::
+    - https://www.linkedin.com/in/user-id/
+    - https://x.com/user-id/
+    - https://user-id.medium.com/
+
+gid0::
+  name: "ABCD Department at XYZ University"
+  photo: "/media/photo/groups/1.jpg"
+  socials::
+    - https://xyz-university.org/abcd-department/
+
+uid1::
+  name: "Aparichit Mishra"
+  whoami: "3rd Year Engineering, Electronics Department, XYZ University"
+  photo: "/media/photo/users/2.jpg"
+  socials::
+    - https://www.linkedin.com/in/user-id/
+    - https://x.com/user-id/
+    - https://user-id.medium.com/
+  fund_recipient::
+    id: "gid0"
+    relationship: "Hosting Department"
+
+uid2::
+  name: "Bade Tenginakai"
+  whoami: "2nd Year Engineering, Computer Science Department, XYZ University"
+  photo: "/media/photo/users/3.jpg"
+  socials::
+    - https://www.linkedin.com/in/user-id/
+  fund_recipient::
+    id: "gid0"
+    relationship: "Hosting Department"
+
+uid3::
+  name: "Chota Chittaranjan"
+  photo: "/media/photo/users/4.jpg"
+  whoami: "4th Year Engineering, Computer Science Department, XYZ University"
+  socials::
+    - https://www.linkedin.com/in/user-id/
+
+  fund_recipient::
+    id: "gid0"
+    relationship: "Hosting Department"
+
+mgid1::
+  name: "Gadinadu Kannadigara Sangha, Kasaragod"
+  photo: "/media/photo/groups/5.jpg"
+
+gid1::
+  name: "Government Higher Primary School, Kannur"
+  photo: "/media/photo/groups/6.jpg"
+  socials::
+    - https://www.linkedin.com/in/user-id/
+
+uid4::
+  name: "Amar Akbar Anthony"
+  whoami: "7th Standard, GHPS, Kannur"
+  photo: "/media/photo/users/7.jpg"
+
+  fund_recipient::
+    id: "gid1"
+    relationship: "Hosting School"
+
+uid5::
+  name: "Vriddhi Z"
+  whoami: "7th Standard, GHPS, Kannur"
+  photo: "/media/photo/users/8.jpg"
+
+  fund_recipient::
+    id: "gid1"
+    relationship: "Hosting School"
+
+uid6::
+  name: "Pramod Kanthara"
+  whoami: "Class Teacher, 7th Standard, GHPS, Kannur"
+  photo: "/media/photo/users/9.jpg"
+
+  fund_recipient::
+    id: "gid1"
+    relationship: "Hosting School"
+
+uid7::
+  name: "Marthandavarma Govindapuri"
+  whoami: "Member of Erstwhile Royal Family, Govindapuri"
+  photo: "/media/photo/users/10.jpg"
+

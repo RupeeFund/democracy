@@ -18,6 +18,9 @@ DRAFT state, and up for discussion:
 - [Volunteering Roles potentially available](doc/VOLUNTEERING.md)
 - [Details on our Infrastructure](doc/INFRA.md)
 
+We also have a creative take on what sort of projects would be interesting. See
+[doc/examples/README.md](doc/examples/README.md).
+
 This project does not take PRs and Issues at the moment.  Please participate in the
 discussions on [The Rupee Fund discussions on GitHub](https://github.com/orgs/RupeeFund/discussions)
 

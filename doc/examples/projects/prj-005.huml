@@ -1,0 +1,37 @@
+# An example of a pure commons project
+proposer: "fiscalhost2"
+name: "Heritage digitization for old palm-leaf collections, and pre British-era documents"
+desc: """
+  My mother expired recently, and her last wish was that many of the historical artifacts
+  that we possess be well preserved, and be made available to everyone.  We've had
+  discussions with preservationists, and found a home for these rare and precious
+  artefacts in a museum/archive.
+
+  Meanwhile, another friend of ours came up with the brilliant idea that we could get
+  these digitized in very high quality, and make them available to the entire world
+  using online portals, free for any kind of use, forever. That appealed to us, and
+  we felt that this was the best way to honour the wishes of our late mother.
+
+  We dug deeper, and found out that this isn't exactly a simple thing. A home scanner,
+  or a scanner that you would find in offices, is cheap and fast.  But it's not high
+  quality - in the \"heritage\" sense.  Heritage scanners are expensive and primarily
+  deployed in museums and some libraries. We were able to find some services that offer
+  careful handling and high quality digitization of these artifacts, but they charge
+  a significant price per page. And we have more than fifty thousand pages to scan!
+
+  We are able to cover the cost of transportation and some more logistics, and around
+  40% of the digitization, but for the rest we are looking for some support from you.
+  With your support, we can get the digitization done and upload the entire scanned
+  copies under a public access license. Post that, the documents will be shifted to
+  the archive for permanent storage, and access by researchers.
+"""
+funding_range:: 200000
+campaign_url: "https://campaign.page/"
+categories:: "short-term", "nascent"
+licenses: "CC-BY-SA-4.0"
+members::
+  - ::
+    uid: "uid7"
+    fund_usage: """
+      Heritage grade digitization of the royal family's private collection.
+    """
