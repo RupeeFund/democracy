@@ -3,24 +3,24 @@ uid0::
   whoami: "Hacker and Enthusiast from Ladakh"
   photo: "/media/photo/users/1.jpg"
   socials::
-    - https://www.linkedin.com/in/user-id/
-    - https://x.com/user-id/
-    - https://user-id.medium.com/
+    - "https://www.linkedin.com/in/user-id/"
+    - "https://x.com/user-id/"
+    - "https://user-id.medium.com/"
 
 gid0::
   name: "ABCD Department at XYZ University"
   photo: "/media/photo/groups/1.jpg"
   socials::
-    - https://xyz-university.org/abcd-department/
+    - "https://xyz-university.org/abcd-department/"
 
 uid1::
   name: "Aparichit Mishra"
   whoami: "3rd Year Engineering, Electronics Department, XYZ University"
   photo: "/media/photo/users/2.jpg"
   socials::
-    - https://www.linkedin.com/in/user-id/
-    - https://x.com/user-id/
-    - https://user-id.medium.com/
+    - "https://www.linkedin.com/in/user-id/"
+    - "https://x.com/user-id/"
+    - "https://user-id.medium.com/"
   fund_recipient::
     id: "gid0"
     relationship: "Hosting Department"
@@ -30,7 +30,7 @@ uid2::
   whoami: "2nd Year Engineering, Computer Science Department, XYZ University"
   photo: "/media/photo/users/3.jpg"
   socials::
-    - https://www.linkedin.com/in/user-id/
+    - "https://www.linkedin.com/in/user-id/"
   fund_recipient::
     id: "gid0"
     relationship: "Hosting Department"
@@ -40,7 +40,7 @@ uid3::
   photo: "/media/photo/users/4.jpg"
   whoami: "4th Year Engineering, Computer Science Department, XYZ University"
   socials::
-    - https://www.linkedin.com/in/user-id/
+    - "https://www.linkedin.com/in/user-id/"
 
   fund_recipient::
     id: "gid0"
@@ -54,7 +54,7 @@ gid1::
   name: "Government Higher Primary School, Kannur"
   photo: "/media/photo/groups/6.jpg"
   socials::
-    - https://www.linkedin.com/in/user-id/
+    - "https://www.linkedin.com/in/user-id/"
 
 uid4::
   name: "Amar Akbar Anthony"
